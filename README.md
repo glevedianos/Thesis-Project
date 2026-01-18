@@ -15,3 +15,14 @@ across all experiments will be kept as consistent as possible. The data used for
 and testing the neural networks were sourced from the publicly available Ninapro
 database. The code was developed in Python, and the Keras library was used for building
 the models.
+
+
+## Dependacies 
+tensorflow==1.13.1
+keras==2.2.4
+numpy==1.16.2
+scipy==1.2.1
+sklearn==0.20.3
+
+## Database
+In order to run the code you need to download [Ninapro DB1](https://ninapro.hevs.ch/instructions/DB1.html) and extract it in a folder with name Ninapro. In this folder the data of its subject should be inside a folder named s1 for the first, s2 for ths second etc.
