@@ -18,11 +18,11 @@ the models.
 
 
 ## Dependacies 
-tensorflow==1.13.1
-keras==2.2.4
-numpy==1.16.2
-scipy==1.2.1
-sklearn==0.20.3
+tensorflow=1.13.1\
+keras=2.2.4\
+numpy=1.16.2\
+scipy=1.2.1\
+sklearn=0.20.3
 
 ## Database
 In order to run the code you need to download [Ninapro DB1](https://ninapro.hevs.ch/instructions/DB1.html) and extract it in a folder named Ninapro. In this folder the data of its subject should be in a folder named s1 for the first, s2 for the second etc.
