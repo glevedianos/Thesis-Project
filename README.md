@@ -1,7 +1,7 @@
 # sEMG-BASED MULTI-LABEL HAND GESTURE RECOGNITION
 This is the code accompaniment for my [Thesis](https://nemertes.library.upatras.gr/items/c0d05b9f-5b20-4dc9-8c1f-4245b1c2c8d2)
 
-##Abstract
+## Abstract
 The recognition and classification of hand gestures using surface electromyography
 (sEMG) has gathered a lot of interest from the research community in recent years. This
 is due to its applications in the medical field (prosthetic limbs) as well as its use as a tool
